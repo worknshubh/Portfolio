@@ -21,3 +21,5 @@ Welcome to my **Android Portfolio App**, a modern and responsive mobile applicat
 - **Android Studio**
 
 ---
+🎥 [Watch Demo Video](https://private-user-images.githubusercontent.com/148777207/439304960-b3fedb83-6899-41a6-b55e-d32d3e7b3b87.mp4)
+
